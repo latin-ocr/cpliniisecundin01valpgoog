@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./cpliniisecundin01valpgoog_0662.png"; bbox 0 0 3000 4917; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1074 2321 2159 2475">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1074 2321 2159 2475">
+     <span class='ocr_line' id='line_1_1' title="bbox 1074 2321 2159 2386; baseline -0.006 -7"><span class='ocrx_word' id='word_1_1' title='bbox 1074 2328 1174 2379; x_wconf 82' lang='lat' dir='ltr'><strong>Ex</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1221 2327 1583 2379; x_wconf 81' lang='lat' dir='ltr'><strong>EDITIONE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1635 2321 2159 2386; x_wconf 83' lang='lat' dir='ltr'>GRONOVIANA,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1271 2425 1945 2475; baseline -0.001 0"><span class='ocrx_word' id='word_1_4' title='bbox 1271 2425 1449 2475; x_wconf 72' lang='lat' dir='ltr'><strong>Lucu.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1483 2425 1624 2475; x_wconf 69' lang='lat' dir='ltr'><strong>Bu.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1649 2428 1796 2473; x_wconf 83' lang='grc'><strong>1668.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1826 2426 1945 2474; x_wconf 78' lang='lat' dir='ltr'><strong>svo.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2972 0 2974 3979">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2972 0 2974 3979">
+     <span class='ocr_line' id='line_1_3' title="bbox 2972 0 2974 3979; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 2972 0 2974 3979; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
